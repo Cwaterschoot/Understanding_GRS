@@ -1,4 +1,4 @@
-# Understanding_GRS
+# Evaluating the Understandability of Social Choice-based Explanations for Group Recommendation
 Repository for the paper 'Evaluating the Understandability of Social Choice-based Explanations for Group Recommendation'
 
 ## Content:
