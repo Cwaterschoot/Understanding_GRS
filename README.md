@@ -1,5 +1,5 @@
-# Evaluating the Understandability of Social Choice-based Explanations for Group Recommendation
-Repository for the paper 'Evaluating the Understandability of Social Choice-based Explanations for Group Recommendation'
+# With Friends Like These, Who Needs Explanations? Evaluating User Understanding of Group Recommendations
+Repository for the paper 'With Friends Like These, Who Needs Explanations? Evaluating User Understanding of Group Recommendations'
 
 ## Content:
 This repository includes the following:
